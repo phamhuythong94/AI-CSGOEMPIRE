@@ -1,0 +1,5 @@
+{
+  "name": "Provably Fair Roll Verifier & Predictor",
+  "description": "A tool to verify game rolls using server seed, public seed, and round ID, and to analyze past results to provide a prediction for the next round. Based on a provably fair hashing system.",
+  "requestFramePermissions": []
+}
